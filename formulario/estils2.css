@@ -1,0 +1,48 @@
+body{
+  background-color: lightblue;
+
+}
+
+#formulario{
+  background-color: lightblue;
+  width: 250px;
+  height: 400px;
+  margin: auto;
+
+  font-size: 20px;
+
+}
+
+
+.cajitas{
+  background-color: lightblue;
+  width: 250px;
+  margin: 20px;
+}
+
+.cajitas,placeholder{
+font-family: 'Bangers';
+color: black;
+}
+
+::-webkit-input-placeholder{
+  color:white;
+}
+
+
+.text{
+
+  text-align: left;
+
+
+}
+
+.enviar{
+  text-align: center;
+  margin-left: 25%;
+}
+
+h1{
+  text-align:center;
+
+}
