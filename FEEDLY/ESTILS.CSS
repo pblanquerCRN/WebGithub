@@ -46,7 +46,7 @@ li{
 #menu{
   background-color:
   height:40px;
-  background-image:url(img/feedly-logo-small-black.png);
+  background-image:url(feedly-logo-small-black.png);
   background-position:25px;
   background-repeat:no-repeat;
    }
@@ -54,34 +54,34 @@ li{
 #coneix{
 background-color:#6C3;
 height:550px;
-background-image:url(img/img-hero-full-list.png);
+background-image:url(img-hero-full-list.png);
 }
 
 #tot{
   background-color:#EEECEE;
   height:641px;
-  background-image:url(img/allinone.JPG);
+  background-image:url(allinone.JPG);
 
 }
 
 #util{
   background-color:#333333;
   height:500px;
-  background-image:url(img/curator-short.png);
+  background-image:url(curator-short.png);
 
 }
 
 #rapid{
   background-color:#EEECEE;
   height:550px;
-  background-image:url(img/img-hero-full-list.png);
+  background-image:url(img-hero-full-list.png);
 
 }
 
 #facil{
   background-color:#6C3;
   height:550px;
-  background-image:url(img/mobile-share.png);
+  background-image:url(mobile-share.png);
   background-position:400px bottom;
 
 }
